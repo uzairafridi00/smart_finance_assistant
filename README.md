@@ -131,7 +131,7 @@ streamlit run app.py
 - Store expenses in database (SQLite or PostgreSQL)
 - Connect with Google sheet using MCP
 
-### ⭐ Star this repo if you find it useful!
+### [⭐ Star this repo if you find it useful!](https://github.com/uzairafridi00/smart_finance_assistant)
 
 <p align="center">
 <img src="https://github.com/uzairafridi00/smart_finance_assistant/blob/main/images/smart_personal_finance_assistant.png" alt="Image Not Found"/>
