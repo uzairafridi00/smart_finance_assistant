@@ -133,3 +133,10 @@ streamlit run app.py
 
 ### ⭐ Star this repo if you find it useful!
 
+<p align="center">
+<img src="https://github.com/uzairafridi00/smart_finance_assistant/blob/main/images/smart_personal_finance_assistant.png" alt="Image Not Found"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/uzairafridi00/smart_finance_assistant/blob/main/images/newplot.png" alt="Image Not Found"/>
+</p>
