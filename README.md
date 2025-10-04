@@ -114,10 +114,6 @@ cd frontend
 streamlit run app.py
 ```
 
-### Live Demo (Example)
-
-👉 https://github.com/yourusername/ai-expense-tracker
-
 ### How the AI Works
 
 - Streamlit sends expense data to FastAPI.
@@ -136,3 +132,4 @@ streamlit run app.py
 - Connect with Google sheet using MCP
 
 ### ⭐ Star this repo if you find it useful!
+
